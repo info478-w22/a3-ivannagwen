@@ -1,0 +1,14 @@
+name: a3-ivannagwen
+title: a3-ivannagwen
+username:
+account: ivanna07
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5821250
+bundleId: 5664788
+url: https://ivanna07.shinyapps.io/a3-ivannagwen/
+when: 1646886918.35919
+lastSyncTime: 1646886918.35921
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|README.md|www/.DS_Store
